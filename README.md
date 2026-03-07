@@ -2,7 +2,7 @@
 
 Data Analyst issue d’une **reconversion vers la data** après un parcours scientifique exigeant ayant développé **rigueur analytique, esprit critique, structuration de l’information et résolution de problèmes complexes.**
 
-Je conçois aujourd’hui des **solutions data utiles au métier** : reporting Power BI, automatisation SQL / Excel, préparation de données et optimisation de processus via Python.
+Je conçois aujourd’hui des **solutions data utiles au métier** : reporting Power BI, automatisation reporting Excel, préparation de données et optimisation de processus via Python.
 
 ________________________________________________________________________________________________
 
