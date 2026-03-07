@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Présentation
 
-<!--
-**ABatch59/ABatch59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst issue d’une **reconversion vers la data** après un parcours scientifique exigeant ayant développé **rigueur analytique, esprit critique, structuration de l’information et résolution de problèmes complexes.**
 
-Here are some ideas to get you started:
+Je conçois aujourd’hui des **solutions data utiles au métier** : reporting Power BI, automatisation SQL / Excel, préparation de données et optimisation de processus via Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+________________________________________________________________________________________________
+
+## Compétences techniques
+
+| Domaine                  | Compétences                            |
+| ------------------------ | -------------------------------------- |
+| Business Intelligence    | Power BI, DataViz, Data Storytelling   |
+| Data Analyse             | SQL, Python, Excel                     |
+| Data Preparation         | Power Query, ETL, Data Cleaning        |
+| Data Science (bases)     | Régression, Clustering                 |
+| Data Engineering (bases) | Modélisation BDD, création de vues SQL |
+
+________________________________________________________________________________________________
+
+## Formation Power BI — Data Visualisation
+
+https://www.loom.com/share/924a080bcc964c078db7e72feea63d68
+
+Guide de création de graphiques Power BI :
+➡️Guide DataViz
