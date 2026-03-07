@@ -20,8 +20,35 @@ ________________________________________________________________________________
 
 ## Formation Power BI — Data Visualisation
 
-Tutoriel : Créer un diagramme de Gantt sur Power BI (Planification de projet) 
+**Tutoriel :** Créer un diagramme de Gantt sur Power BI (Planification de projet) 
+
 https://www.loom.com/share/924a080bcc964c078db7e72feea63d68
 
 Guide de création de graphiques Power BI :
-➡️Guide DataViz
+➡️[Guide DataViz](Guide_création_graphiques_PowerBI.docx)
+
+
+## 📊 Dashboards Power BI
+
+Dashboard veille métier
+➡️ [Voir](4_Dashboard-Veille_stratégique.pbix)
+
+Dashboard portfolio (CV interactif)
+➡️ [Voir](
+
+________________________________________________________________________________________________
+
+## ✈️ Candidature — Aéroworld
+
+Analyse des besoins métier
+➡️ [Télécharger](1_Analyse_besoin_métiers.docx)
+
+📑 Cahier des charges
+➡️ [Télécharger](2_Cahier_des_Charges.pptx)
+
+________________________________________________________________________________________________
+
+📄 CV
+
+➡️ [Télécharger mon CV](
+
