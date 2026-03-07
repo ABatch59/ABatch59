@@ -20,6 +20,7 @@ ________________________________________________________________________________
 
 ## Formation Power BI — Data Visualisation
 
+Tutoriel : Créer un diagramme de Gantt sur Power BI (Planification de projet) 
 https://www.loom.com/share/924a080bcc964c078db7e72feea63d68
 
 Guide de création de graphiques Power BI :
