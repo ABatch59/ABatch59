@@ -25,15 +25,15 @@ ________________________________________________________________________________
 
 ## 🌍 Au-delà de la data
 
-- Créativité et gestion de projets culturels : 
+- **Créativité et gestion de projets culturels** : 
 responsable d’une association de danse (120 adhérents) et organisation d’événements locaux
 
-- Adaptabilité internationale : 
+- **Adaptabilité internationale** : 
 6 ans vécus à La Réunion et voyages dans plusieurs pays
 
-- Persévérance : reconversion réussie vers les métiers de la data
+- **Persévérance** : reconversion réussie vers les métiers de la data
 
-- Développement personnel et discipline : 
+- **Développement personnel et discipline** : 
 intérêt pour l’apprentissage continu et la pratique du sprint / running
 
 ________________________________________________________________________________________________
