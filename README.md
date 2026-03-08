@@ -2,7 +2,19 @@
 
 Data Analyst issue d’une **reconversion vers la data** après un parcours scientifique exigeant ayant développé **rigueur analytique, esprit critique, structuration de l’information et résolution de problèmes complexes.**
 
-Je conçois aujourd’hui des **solutions data utiles au métier** : reporting Power BI, automatisation reporting Excel, préparation de données et optimisation de processus via Python.
+Je conçois aujourd’hui des **solutions data utiles au métier** en combinant **analyse du besoin, préparation des données et restitution décisionnelle**: reporting Power BI, automatisation de processus via Python, transformation de données avec SQL, Excel et Power Query.
+
+J’interviens également sur le **recueil du besoin métier, la co-construction de solutions et le pilotage de projets en méthode Agile (Azure DevOps, sprints)** afin de livrer des outils réellement adaptés aux usages opérationnels.
+
+🌍 **Au-delà de la data**
+- Créativité et gestion de projets culturels : responsable d’une association de danse (120 adhérents) et organisation d’événements locaux
+
+- Adaptabilité internationale : 6 ans vécus à La Réunion et expériences dans plusieurs pays
+
+- Persévérance : reconversion réussie vers les métiers de la data
+
+- Développement personnel et discipline : intérêt pour l’apprentissage continu et la pratique du sprint / running
+
 
 ________________________________________________________________________________________________
 
@@ -15,6 +27,8 @@ ________________________________________________________________________________
 | Data Preparation         | Power Query, ETL, Data Cleaning        |
 | Data Science (bases)     | Régression, Clustering                 |
 | Data Engineering (bases) | Modélisation BDD, création de vues SQL |
+
+
 
 ________________________________________________________________________________________________
 
