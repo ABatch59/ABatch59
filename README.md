@@ -38,15 +38,11 @@ intérêt pour l’apprentissage continu et la pratique du sprint / running
 
 ________________________________________________________________________________________________
 
-## Formation Power BI — Data Visualisation
+## CV
 
-**Tutoriel :** Créer un diagramme de Gantt sur Power BI (Planification de projet) 
+➡️ [Télécharger mon CV](
 
-https://www.loom.com/share/924a080bcc964c078db7e72feea63d68
-
-Guide de création de graphiques Power BI :
-➡️[Guide DataViz](Guide_création_graphiques_PowerBI.docx)
-
+________________________________________________________________________________________________
 
 ## Dashboards Power BI
 
@@ -58,9 +54,17 @@ Dashboard portfolio (CV interactif)
 
 ________________________________________________________________________________________________
 
-## CV
 
-➡️ [Télécharger mon CV](
+## Formation Power BI — Data Visualisation
+
+**Tutoriel :** Créer un diagramme de Gantt sur Power BI (Planification de projet) 
+
+https://www.loom.com/share/924a080bcc964c078db7e72feea63d68
+
+Guide de création de graphiques Power BI :
+➡️[Guide DataViz](Guide_création_graphiques_PowerBI.docx)
+
+
 
 ________________________________________________________________________________________________
 
