@@ -28,7 +28,7 @@ Guide de création de graphiques Power BI :
 ➡️[Guide DataViz](Guide_création_graphiques_PowerBI.docx)
 
 
-## 📊 Dashboards Power BI
+## Dashboards Power BI
 
 Dashboard veille métier
 ➡️ [Voir](4_Dashboard-Veille_stratégique.pbix)
@@ -48,7 +48,7 @@ Cahier des charges
 
 ________________________________________________________________________________________________
 
-## 📄 CV
+## CV
 
 ➡️ [Télécharger mon CV](
 
