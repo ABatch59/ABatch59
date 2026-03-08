@@ -46,6 +46,9 @@ ________________________________________________________________________________
 
 ## ✈️ Candidature — Aéroworld
 
+
+<img width="1298" height="344" alt="image" src="https://github.com/user-attachments/assets/9d1b9512-358c-436c-b1d3-e653734fc8d4" />
+
 Analyse des besoins métier
 ➡️ [Télécharger](1_Analyse_besoin_métiers.docx)
 
