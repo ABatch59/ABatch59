@@ -43,12 +43,12 @@ ________________________________________________________________________________
 Analyse des besoins métier
 ➡️ [Télécharger](1_Analyse_besoin_métiers.docx)
 
-📑 Cahier des charges
+Cahier des charges
 ➡️ [Télécharger](2_Cahier_des_Charges.pptx)
 
 ________________________________________________________________________________________________
 
-📄 CV
+## 📄 CV
 
 ➡️ [Télécharger mon CV](
 
