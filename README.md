@@ -14,9 +14,12 @@ ________________________________________________________________________________
 | ------------------------ | -------------------------------------- |
 | Business Intelligence    | Power BI, DataViz, Data Storytelling   |
 | Data Analyse             | SQL, Python, Excel                     |
-| Data Preparation         | Power Query, ETL, Data Cleaning        |
+| Data Preparation         | SQL, Power Query, ETL, Data Cleaning   |
+| Data Modeling            | SQLite, Power Architect                |
+| Automatisation           | Python, Streamlit                      |
 | Data Science (bases)     | Régression, Clustering                 |
 | Data Engineering (bases) | Modélisation BDD, création de vues SQL |
+| Data Management & Collab | Microsoft Lists, GitHub                |
 
 ________________________________________________________________________________________________
 
