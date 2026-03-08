@@ -38,6 +38,12 @@ Dashboard portfolio (CV interactif)
 
 ________________________________________________________________________________________________
 
+## CV
+
+➡️ [Télécharger mon CV](
+
+________________________________________________________________________________________________
+
 ## ✈️ Candidature — Aéroworld
 
 Analyse des besoins métier
@@ -45,10 +51,4 @@ Analyse des besoins métier
 
 Cahier des charges
 ➡️ [Télécharger](2_Cahier_des_Charges.pptx)
-
-________________________________________________________________________________________________
-
-## CV
-
-➡️ [Télécharger mon CV](
 
