@@ -50,7 +50,7 @@ Dashboard veille métier
 ➡️ [Voir](4_Dashboard-Veille_stratégique.pbix)
 
 Dashboard portfolio (CV interactif)
-➡️ [Voir](
+➡️ [Voir](5_Dashboard-Portfolio_DataAnalyst.pbix)
 
 ________________________________________________________________________________________________
 
